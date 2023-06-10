@@ -11,6 +11,8 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
+## Forked original repo to apply fix linked here: https://github.com/Glartek/flutter-unity/commit/0237f6f386cf289b19d1777fdb08ad0e4f7d8717
+
 Flutter unity widget for embedding unity in flutter web apps. Now you can render unity webGL build in a Flutter web app. Also enables two way communication between flutter web and unity.
 
 ## Setup
